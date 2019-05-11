@@ -24,11 +24,13 @@ Retrieving details about youtube videos, channels, playlists then save all these
 
 ##2 Then download and extract the source code files 'Youtube-API'
 
-##3 Launch MongoDB server
+##3 Launch Spyder
 
-##4 Paste the source code and add your 'Youtube API Key'
+##4 Launch MongoDB server
 
-##5 Write your query and run the code
+##5 Paste the source code and add your 'Youtube API Key'
+
+##6 Write your query and run the code
 
 # Author
 
