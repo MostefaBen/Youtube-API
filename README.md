@@ -16,6 +16,9 @@ Retrieving details about youtube videos, channels, playlists then save all these
 #  MongoDB server installation:
 ##1 go to MongoDB web site and download MongoDB server: https://www.mongodb.com/what-is-mongodb
 
+##2 install MongoDB python driver from your commande window: 
+\>\> pip install pymongo 
+
 # Runing the code:
 ##1 go to Anaconda web site and download Anaconda Installer: https://www.anaconda.com/distribution/#download-section
 
