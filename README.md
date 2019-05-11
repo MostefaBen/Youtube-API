@@ -25,5 +25,11 @@ Retrieving details about youtube videos, channels, playlists then save them to M
 
 ##4 Write your query and run the code
 
+# Author
+
+This project has been developed by Mostefa Ben naceur https://fr.linkedin.com/in/mostefabennaceurphd
+
+
+
 
 
