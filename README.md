@@ -13,7 +13,7 @@ Retrieving details about youtube videos, channels, playlists then save them to M
 ##5 open a command window or from your terminal you can install Google API client:
 \>\> pip install --upgrade google-api-python-client
 
-# installation of MongoDB database:
+#  MongoDB server installation:
 ##1 go to MongoDB web site and download MongoDB server: https://www.mongodb.com/what-is-mongodb
 
 
