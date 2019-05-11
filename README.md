@@ -11,4 +11,4 @@ Retrieving details about youtube videos, channels, playlists then save them to M
 ##4 from this screen copy your 'Youtube API Key'
 
 ##4 open a command window or from your terminal you can install Google API client:
->> pip install --upgrade google-api-python-client
+'>>' pip install --upgrade google-api-python-client
