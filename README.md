@@ -14,13 +14,13 @@ Retrieving details about youtube videos, channels, playlists then save them to M
 \>\> pip install --upgrade google-api-python-client
 
 #  MongoDB server installation:
-### go to MongoDB web site and download MongoDB server: https://www.mongodb.com/what-is-mongodb
+##1 go to MongoDB web site and download MongoDB server: https://www.mongodb.com/what-is-mongodb
 
 # Runing the code:
-### go to Anaconda web site and download Anaconda Installer: https://www.anaconda.com/distribution/#download-section
-### Then download and extract the source code files 'Youtube-API'
-### Launch MongoDB server
-### Write your query and run the code
+##1 go to Anaconda web site and download Anaconda Installer: https://www.anaconda.com/distribution/#download-section
+##2 Then download and extract the source code files 'Youtube-API'
+##3 Launch MongoDB server
+##4 Write your query and run the code
 
 
 
