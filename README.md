@@ -1,5 +1,5 @@
 # Youtube-API
-Retrieving details about youtube videos, channels, playlists then save them to MongoDB database
+Retrieving details about youtube videos, channels, playlists then save all these details to the MongoDB database
 
 # Getting started
 ##1- create a google account on gmail
