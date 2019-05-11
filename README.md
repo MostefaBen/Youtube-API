@@ -18,8 +18,11 @@ Retrieving details about youtube videos, channels, playlists then save them to M
 
 # Runing the code:
 ##1 go to Anaconda web site and download Anaconda Installer: https://www.anaconda.com/distribution/#download-section
+
 ##2 Then download and extract the source code files 'Youtube-API'
+
 ##3 Launch MongoDB server
+
 ##4 Write your query and run the code
 
 
