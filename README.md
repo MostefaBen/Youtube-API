@@ -26,7 +26,7 @@ Retrieving details about youtube videos, channels, playlists then save all these
 
 ##3 Launch MongoDB server
 
-##3 Add your 'Youtube API Key'
+##4 Paste the source code and add your 'Youtube API Key'
 
 ##5 Write your query and run the code
 
